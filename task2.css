@@ -1,0 +1,22 @@
+table,th,td{
+     <h3> NORMAL TABLE</h3>
+    <table>
+        <tr>
+            <th colspan="2">full name</th>
+            <th>age</th>
+        </tr>
+        <tr>
+            <th>first name</th>
+            <th>last name</th>
+        </tr>
+        <tr>
+            <td>Ram</td>
+            <td>dahal</td>
+            <td>39</td>
+        </tr>
+        <tr>
+            <td>Bom</td>
+            <td>Karki</td>
+            <td>90</td>
+        </tr>
+}
